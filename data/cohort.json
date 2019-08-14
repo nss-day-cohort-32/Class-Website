@@ -10,8 +10,8 @@
             "linkedIn": "https://www.linkedin.com/in/keisha-card/",
             "portfolio": "https://keishacard.com/",
             "email": "cardkeisha@gmail.com",
-            "proImg": "images/classmates/KeishaCard.jpg",
-            "funImg": "images/classmates/KeishaCard_Fun.jpg"
+            "proImg": "images/classmates/Keisha.jpg",
+            "funImg": "images/classmates/Keisha_Fun.jpg"
         },
         {
             "id": 2,
@@ -23,8 +23,8 @@
             "linkedIn": "https://www.linkedin.com/in/c-sandlin",
             "portfolio": "www.csandlin.dev",
             "email": "csandlin010@gmail.com",
-            "proImg": "images/classmates/ColinSandlin.jpg",
-            "funImg": "images/classmates/ColinSandlin_Fun.jpg"
+            "proImg": "images/classmates/Colin.jpg",
+            "funImg": "images/classmates/Colin_Fun.jpg"
         },
         {
             "id": 3,
@@ -36,8 +36,8 @@
             "linkedIn": "https://www.linkedin.com/in/shelleyarnoldtn/",
             "portfolio": "www.shelleyeti.com",
             "email": "shelle.kay@gmail.com",
-            "proImg": "images/classmates/ShelleyArnold.jpg",
-            "funImg": "images/classmates/ShelleyArnold_Fun.jpg"
+            "proImg": "images/classmates/Shelley.jpg",
+            "funImg": "images/classmates/Shelley_Fun.jpg"
         }
     ]
 }
