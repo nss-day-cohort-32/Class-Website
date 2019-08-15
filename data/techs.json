@@ -99,6 +99,6 @@
       "name": "ES lint",
       "image": "images/techs/eslint.png",
       "link": "https://eslint.org/"
-    },
+    }
   ]
 }
