@@ -38,6 +38,19 @@
             "email": "shelle.kay@gmail.com",
             "proImg": "images/classmates/Shelley.jpg",
             "funImg": "images/classmates/Shelley_Fun.jpg"
+        },
+        {
+            "id": 4,
+            "firstName": "Deep",
+            "lastName": "Patel",
+            "reelThemIn": "<p>git commit -m \"Eat Sleep code Repeat!\"</p>",
+            "bio": "<p>I moved to the United States in 2017 with a degree in Mechanical Engineering excited to embark on a new life and adventure. I love new challenges and was eager to search for new ways to expand my skill set beyond that of mechanical engineering. I knew I had gained the ability to solve problems and think critically through my degree and with my new path in software development, I get to take these skills to another level. I am excited about my new career path as a software developer!</p>",
+            "github": "https://github.com/Deep-A-Patel",
+            "linkedIn": "https://www.linkedin.com/in/deep-patel1993/",
+            "portfolio": "",
+            "email": "deep.ag123007@gmail.com",
+            "proImg": "images/classmates/Deep.jpg",
+            "funImg": "images/classmates/Deep_Fun.jpg"
         }
     ]
 }
