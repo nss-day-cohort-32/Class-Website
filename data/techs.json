@@ -6,9 +6,9 @@
       "link": "https://www.javascript.com/"
     },
     {
-      "name": "AngularJS",
-      "image": "images/techs/angularjs.png",
-      "link": "https://angularjs.org/"
+      "name": "ReactJS",
+      "image": "images/techs/ReactJS.png",
+      "link": "https://reactjs.org/"
     },
     {
       "name": "jQuery",
