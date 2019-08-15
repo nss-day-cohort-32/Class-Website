@@ -51,6 +51,19 @@
             "email": "deep.ag123007@gmail.com",
             "proImg": "images/classmates/Deep.jpg",
             "funImg": "images/classmates/Deep_Fun.jpg"
+        },
+        {
+            "id": 5,
+            "firstName": "Joseph",
+            "lastName": "Driscoll",
+            "reelThemIn": "<p>Program or be programmed -Douglas Rushkoff</p>",
+            "bio": "<p> After earning a bachelor of arts degree in Audio Engineering, I started to become intrigued with the process of software development. I thoroughly enjoy problem-solving and solution finding. In the event that there are many different ways to obtain the same result, I am naturally eager to find the most efficient way to that result. Nashville Software School has given me the tools, resources and confidence I needed to begin a successful career in software development.</p>",
+            "github": "https://github.com/Jdriscoll1993",
+            "linkedIn": "https://www.linkedin.com/in/joeydriscoll/",
+            "portfolio": "",
+            "email": "driscoll.recording@gmail.com",
+            "proImg": "images/classmates/Joey.jpg",
+            "funImg": "images/classmates/Joey_Fun.jpg"
         }
     ]
 }
