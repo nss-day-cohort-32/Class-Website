@@ -11,11 +11,6 @@
       "link": "https://reactjs.org/"
     },
     {
-      "name": "jQuery",
-      "image": "images/techs/jquery.png",
-      "link": "https://jquery.com/"
-    },
-    {
       "name": "Git",
       "image": "images/techs/git.png",
       "link": "https://git-scm.com"
@@ -39,11 +34,6 @@
       "name": "CSS3",
       "image": "images/techs/css3.png",
       "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3"
-    },
-    {
-      "name": "Sass",
-      "image": "images/techs/sass.png",
-      "link": "https://sass-lang.com/"
     },
     {
       "name": "Bootstrap",
@@ -110,10 +100,5 @@
       "image": "images/techs/eslint.png",
       "link": "https://eslint.org/"
     },
-    {
-      "name": "UglifyJs",
-      "image": "images/techs/uglify.png",
-      "link": "https://www.npmjs.com/package/uglifyjs"
-    }
   ]
 }
