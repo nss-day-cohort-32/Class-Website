@@ -129,6 +129,19 @@
             "email": "addam.joor@outlook.com",
             "proImg": "images/classmates/Addam.jpg",
             "funImg": "images/classmates/Addam_Fun.jpg"
+        },
+        {
+            "id": 11,
+            "firstName": "Jason",
+            "lastName": "Collum",
+            "reelThemIn": "<p>json column</p>",
+            "bio": "<p>I’m a creator at heart with a background in audio engineering and creating music for movies, television, and advertising.  After completing a few online JavaScript courses on my own, I decided to formalize my education at Nashville Software School where I could make coding a priority and be part of an incredible community dedicated to personal and professional growth.  I bring a collaborative spirit and enthusiasm to any effort to make something great.</p>",
+            "github": "https: //github.com/jasoncollum",
+            "linkedIn": "https: //www.linkedin.com/in/jason-collum",
+            "portfolio": "http: //www.jasoncollum.com",
+            "email": "jasoncollum@gmail.com",
+            "proImg": "images/classmates/JasonC.jpg",
+            "funImg": "images/classmates/JasonC_Fun.jpg"
         }
     ]
 }
