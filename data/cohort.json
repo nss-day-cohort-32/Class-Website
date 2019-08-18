@@ -90,6 +90,45 @@
             "email": "heathercleland@gmail.com",
             "proImg": "images/classmates/Heather.jpg",
             "funImg": "images/classmates/Heather_Fun.jpg"
+        },
+        {
+            "id": 8,
+            "firstName": "Eliot",
+            "lastName": "Clarke",
+            "reelThemIn": "<p>On a path to learn. Hopefully learn everything.</p>",
+            "bio": "<p>I rediscovered a passion for coding while working in the motorcycle industry and have since decided to chase after that passion at full force. I've found it to be one of the most rewarding endeavors I've gone after. If there's anything I've discovered about myself, it's that I have a natural inclination for problem-solving and an innate desire to help people. With a dedication to efficiency and creating positive change, it feels like I've finally found a career path I can get excited about.</p>",
+            "github": "https://github.com/deliotclarke",
+            "linkedIn": "https://www.linkedin.com/in/eliotclarke",
+            "portfolio": "https://deliotclarke.github.io",
+            "email": "deliotclarke@gmail.com",
+            "proImg": "images/classmates/Eliot.jpg",
+            "funImg": "images/classmates/Eliot_Fun.jpg"
+        },
+        {
+            "id": 9,
+            "firstName": "Jimmy",
+            "lastName": "Metts",
+            "reelThemIn": "<p>git commit -m \"Code or Bust!\"</p>",
+            "bio": "<p>After spending many years in the music industry, I made the decision to change careers and needed a field with a growing job market that rewards hard work. I became aware of coding though a close family member's interest in the field and was pulled even closer when they graduated from Nashville Software School's Full Stack Web Development Boot Camp.<p><p>I find software development to be constantly challenging and at the same time very rewarding. I enjoy researching and implementing the Full Stack techniques & languages we have learned at NSS that include C#, .NET, SQL, ReactJS, Bootstrap, HTML, CSS & JavaScript. I am looking forward to applying my skills in software development and believe with my varied work experience, I will be an asset to any team.</p>",
+            "github": "https://github.com/jimmymetts",
+            "linkedIn": "https://www.linkedin.com/in/jimmymetts/",
+            "portfolio": "",
+            "email": "jimmymettsdev@gmail.com",
+            "proImg": "images/classmates/Jimmy.jpg",
+            "funImg": "images/classmates/Jimmy_Fun.jpg"
+        },
+        {
+            "id": 10,
+            "firstName": "Addam",
+            "lastName": "Joor",
+            "reelThemIn": "<p>git commit -m \"May your hats soar as high as your dreams.\"</p>",
+            "bio": "<p> Analytical Chemist turned software developer on a never ending quest for knowledge. My journey as a software developer began as a simple curiosity and a self-imposed challenge to learn something that I had previously believed to be too daunting. I began by coding along with YouTube videos to build simple video game applications and eventually dove down the Unity rabbit hole. As I built these projects I realized that coding took something that I already loved, science and logic, and merged it with something I was missing, creation and exploration. I became obsessed with coming up with new more complex features to add to the games and small applications I was building. I was consumed with watching my ideas come to life and become interactive. It didn't take long before I decided I wanted to turn this passion into my career. I'm striving to learn more and more everyday and to continue to explore this passion for creation, exploration, and discovery. </p>",
+            "github": "https://github.com/maddarooj",
+            "linkedIn": "https://www.linkedin.com/in/william-addam-joor/",
+            "portfolio": "https://maddarooj.github.io/william-joor/",
+            "email": "addam.joor@outlook.com",
+            "proImg": "images/classmates/Addam.jpg",
+            "funImg": "images/classmates/Addam_Fun.jpg"
         }
     ]
 }
