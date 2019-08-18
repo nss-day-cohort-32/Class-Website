@@ -6,21 +6,6 @@
       "link": "https://www.javascript.com/"
     },
     {
-      "name": "AngularJS",
-      "image": "images/techs/angularjs.png",
-      "link": "https://angularjs.org/"
-    },
-    {
-      "name": "jQuery",
-      "image": "images/techs/jquery.png",
-      "link": "https://jquery.com/"
-    },
-    {
-      "name": "Git",
-      "image": "images/techs/git.png",
-      "link": "https://git-scm.com"
-    },
-    {
       "name": "Github",
       "image": "images/techs/github.png",
       "link": "https://github.com/"
@@ -41,11 +26,6 @@
       "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3"
     },
     {
-      "name": "Sass",
-      "image": "images/techs/sass.png",
-      "link": "https://sass-lang.com/"
-    },
-    {
       "name": "Bootstrap",
       "image": "images/techs/bootstrap.png",
       "link": "https://getbootstrap.com/"
@@ -56,24 +36,9 @@
       "link": "http://browserify.org/"
     },
     {
-      "name": "Firebase",
-      "image": "images/techs/firebase.png",
-      "link": "https://firebase.google.com"
-    },
-    {
-      "name": "Materialize",
-      "image": "images/techs/materialize.png",
-      "link": "http://materializecss.com/"
-    },
-    {
       "name": "NPM",
       "image": "images/techs/npm.png",
       "link": "https://www.npmjs.com/"
-    },
-    {
-      "name": "SQLite3",
-      "image": "images/techs/sqlite.png",
-      "link": "https://www.sqlite.org/"
     },
     {
       "name": "SQL Server",
@@ -111,9 +76,9 @@
       "link": "https://eslint.org/"
     },
     {
-      "name": "UglifyJs",
-      "image": "images/techs/uglify.png",
-      "link": "https://www.npmjs.com/package/uglifyjs"
+      "name": "React",
+      "image": "images/techs/react.png",
+      "link": "https://reactjs.org"
     }
   ]
 }

@@ -77,6 +77,19 @@
             "email": "nfleming4@gmail.com",
             "proImg": "images/classmates/Nate.jpg",
             "funImg": "images/classmates/Nate_Fun.jpg"
+        },
+        {
+            "id": 7,
+            "firstName": "Heather",
+            "lastName": "Cleland",
+            "reelThemIn": "<p>I wish there was a way to know you're in \"the good old days\", before you've actually left them.</p>",
+            "bio": "<p>Following a career path built on words has lead me to careers as a copy editor, librarian, and to my current destination of software developer. I am ready for a new challenge and new direction. I was drawn to software development because I love that through coding I can build just about anything from virtually nothing. The field is ever-changing with new things to learn and try out every day - much like the field of education. Learning to code has been a challenging journey but that feeling of accomplishment when my code finally works is the best!</p>",
+            "github": "https://github.com/hcleland",
+            "linkedIn": "https://www.linkedin.com/in/heather-cleland/",
+            "portfolio": "https://hcleland.github.io/heather-cleland/",
+            "email": "heathercleland@gmail.com",
+            "proImg": "images/classmates/Heather.jpg",
+            "funImg": "images/classmates/Heather_Fun.jpg"
         }
     ]
 }
