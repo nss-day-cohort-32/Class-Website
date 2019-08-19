@@ -142,6 +142,19 @@
             "email": "jasoncollum@gmail.com",
             "proImg": "images/classmates/JasonC.jpg",
             "funImg": "images/classmates/JasonC_Fun.jpg"
+        },
+        {
+            "id": 12,
+            "firstName": "Carly",
+            "lastName": "Bergthold",
+            "reelThemIn": "<p>I love pressing the F5 key. It’s refreshing.</p>",
+            "bio": "<p>I was first exposed to programming through my work in digital marketing, where the basic coding I did became my favorite part of the work day. A friend told me about Nashville Software School's web development jumpstart course, and after three whirlwind weeks there, I was hooked. I fell in love with the way coding incorporates creativity, logic, and endless learning opportunities. I enrolled in an NSS bootcamp soon after and am truly excited to pursue a career in a field I love.</p>",
+            "github": "https://github.com/carlybergthold",
+            "linkedIn": "https://www.linkedin.com/in/carlybergthold",
+            "portfolio": "",
+            "email": "carlybergthold@gmail.com",
+            "proImg": "images/classmates/Carly.jpg",
+            "funImg": "images/classmates/Carly_Fun.jpg"
         }
     ]
 }
