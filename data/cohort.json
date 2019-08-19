@@ -141,7 +141,7 @@
             "portfolio": "http: //www.jasoncollum.com",
             "email": "jasoncollum@gmail.com",
             "proImg": "images/classmates/JasonC.jpg",
-            "funImg": "images/classmates/JasonC_Fun.jpg"
+            "funImg": "images/classmates/JasonC.jpg"
         },
         {
             "id": 12,
@@ -193,6 +193,18 @@
             "email": "burakkayakoc@gmail.com",
             "proImg": "images/classmates/Burak.jpg",
             "funImg": "images/classmates/Burak_Fun.jpg"
+        },
+        {
+            "id": 16,
+            "firstName": "Dan",
+            "lastName": "Storm",
+            "reelThemIn": "<p>git commit -m \"Shoot for the stars, so if you fall you land on a cloud. - Kanye West\"</p>",
+            "bio": "<p>I am a passionate, creative person who is fortunate to have the opportunity to work in a field that I love! As a freelance audio engineer and VO artist, I was able to hone my creative skills every day at work. I enjoyed helping clients realize their goals while using skills I had been cultivating for years. I find the similarities between audio engineering and software development exciting. I'm thrilled to venture into a field that is constantly expanding and changing. As a software developer, I enjoy positivity in group dynamics, problem-solving and thinking outside the box!</p>",
+            "github": "https://github.com/Dan-Storm",
+            "linkedIn": "https://www.linkedin.com/in/dan-storm/",
+            "email": "stormdanp@gmail.com",
+            "proImg": "images/classmates/Dan.jpg",
+            "funImg": "images/classmates/Dan_Fun.jpg"
         }
     ]
 }
