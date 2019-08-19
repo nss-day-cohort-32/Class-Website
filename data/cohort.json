@@ -168,6 +168,31 @@
             "email": "mr.mcconnell12@gmail.com",
             "proImg": "images/classmates/Ricky.jpg",
             "funImg": "images/classmates/Ricky_Fun.jpg"
+        },
+        {
+            "id": 14,
+            "firstName": "Emily",
+            "lastName": "Loggins",
+            "reelThemIn": "<p>git commit -m \"I went from singing B flat, to writing C# \"</p>",
+            "bio": "<p>For a music major fresh out of undergraduate school, development was an exciting new challenge. It’s empowering to know that I am able to utilize the same creative and quantitative thinking that I used during my music career. Development has changed the way that I problem solve in the real world, and has made me a firm believer in the power of consistent, challenging, mental stimulation. It’s a privilege to get to open my laptop and create every day.</p>",
+            "github": "https://github.com//emilyloggins",
+            "linkedIn": "https://www.linkedin.com/in/emilyloggins/",
+            "email": "emilyloggins1@gmail.com",
+            "proImg": "images/classmates/Emily.jpg",
+            "funImg": "images/classmates/Emily_Fun.jpg"
+        },
+        {
+            "id": 15,
+            "firstName": "Burak",
+            "lastName": "Koc",
+            "reelThemIn": "<p>The more I study, the more insatiable do I feel my genius for it to be. - Ada Lovelace</p>",
+            "bio": "<p>I first discovered my passion for technology in the 1990s with my first computer using a MS-DOS operating systems. In high school, I wrote my first HTML code to build my personal webpage. Since then, I have been fascinated by the functionality of computers and the power of coding. My goal as a coder is to develop resources that provide meaningful and relevant experiences to users. </p>",
+            "github": "https://github.com/BurakNash",
+            "linkedIn": "https://www.linkedin.com/in/buraknash/",
+            "portfolio": "https://buraknash.github.io/",
+            "email": "burakkayakoc@gmail.com",
+            "proImg": "images/classmates/Burak.jpg",
+            "funImg": "images/classmates/Burak_Fun.jpg"
         }
     ]
 }
