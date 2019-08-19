@@ -155,6 +155,19 @@
             "email": "carlybergthold@gmail.com",
             "proImg": "images/classmates/Carly.jpg",
             "funImg": "images/classmates/Carly_Fun.jpg"
+        },
+        {
+            "id": 13,
+            "firstName": "Ricky",
+            "lastName": "McConnell",
+            "reelThemIn": "<p>git commit -m \"It works on my machine.\"</p>",
+            "bio": "<p>I learned about software development from a family member, and they had mentioned Nashville Software School. From there, I began exploring the world of programming. I was intrigued by the challenge and logical thinking incorporated with the field, and applied to a full-stack programming boot-camp. I am set to graduate NSS on September 20, 2019. While attending, I have had the opportunity to brainstorm and develop in languages that include: HTML, CSS, JavaScript, REACTjs, C#, SQL, and .NET.  I am learning everyday and evolving the skillsets to achieve my goals. I am passionate about technology, working in a team, and very eager to continue to grow as a developer to allow ideas to come to life. I am excited for where this career path will take me, and become a big part of the technology community.</p>",
+            "github": "https://github.com/richardmcconnell12",
+            "linkedIn": "https://linkedin.com/in/richard-mcconnell/",
+            "portfolio": "",
+            "email": "mr.mcconnell12@gmail.com",
+            "proImg": "images/classmates/Ricky.jpg",
+            "funImg": "images/classmates/Ricky_Fun.jpg"
         }
     ]
 }
