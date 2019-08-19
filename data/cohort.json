@@ -205,6 +205,19 @@
             "email": "stormdanp@gmail.com",
             "proImg": "images/classmates/Dan.jpg",
             "funImg": "images/classmates/Dan_Fun.jpg"
+        },
+        {
+            "id": 17,
+            "firstName": "Jason",
+            "lastName": "Brooks",
+            "reelThemIn": "\"The only way to make sense out of change is to plunge into it, move with it, and join the dance.\" - Alan Watts</p>",
+            "bio": "<p>For the majority of my life, my interests had been categorized into two separate areas - the technical side and the artistic side. Around 2016, the gap between the two was starting to close - I became extremely interested in coding live visuals and even spent a little time studying electronics. I built an led wall from scratch and rewired an analog synth from the early 80's to accept current MIDI protocol. At this point something clicked and I knew that building technical things was what I wanted to do - so I enrolled in the Full-Stack Web Dev program at NSS. It's truly been what I've been looking for all along and has been the bridge between the aspects of my life that I enjoy the most.</p>",
+            "github": "https://github.com/JBrooksCS",
+            "linkedIn": "https://www.linkedin.com/in/jasonreidbrooks/",
+            "portfolio": "http://www.jasonbrooks.me",
+            "email": "jasonbrooksbio@gmail.com",
+            "proImg": "images/classmates/JasonB.jpg",
+            "funImg": "images/classmates/JasonB_Fun.jpg"
         }
     ]
 }
