@@ -82,7 +82,7 @@
             "id": 7,
             "firstName": "Heather",
             "lastName": "Cleland",
-            "reelThemIn": "<p>I wish there was a way to know you're in \"the good old days\", before you've actually left them.</p>",
+            "reelThemIn": "<p>I wish there was a way to know you're in \"the good old days\", before you've actually left them. - Andy Bernard</p>",
             "bio": "<p>Following a career path built on words has lead me to careers as a copy editor, librarian, and to my current destination of software developer. I am ready for a new challenge and new direction. I was drawn to software development because I love that through coding I can build just about anything from virtually nothing. The field is ever-changing with new things to learn and try out every day - much like the field of education. Learning to code has been a challenging journey but that feeling of accomplishment when my code finally works is the best!</p>",
             "github": "https://github.com/hcleland",
             "linkedIn": "https://www.linkedin.com/in/heather-cleland/",
@@ -136,9 +136,9 @@
             "lastName": "Collum",
             "reelThemIn": "<p>json column</p>",
             "bio": "<p>I’m a creator at heart with a background in audio engineering and creating music for movies, television, and advertising.  After completing a few online JavaScript courses on my own, I decided to formalize my education at Nashville Software School where I could make coding a priority and be part of an incredible community dedicated to personal and professional growth.  I bring a collaborative spirit and enthusiasm to any effort to make something great.</p>",
-            "github": "https: //github.com/jasoncollum",
-            "linkedIn": "https: //www.linkedin.com/in/jason-collum",
-            "portfolio": "http: //www.jasoncollum.com",
+            "github": "https://github.com/jasoncollum",
+            "linkedIn": "https://www.linkedin.com/in/jason-collum",
+            "portfolio": "http://www.jasoncollum.com",
             "email": "jasoncollum@gmail.com",
             "proImg": "images/classmates/JasonC.jpg",
             "funImg": "images/classmates/JasonC.jpg"
@@ -218,6 +218,32 @@
             "email": "jasonbrooksbio@gmail.com",
             "proImg": "images/classmates/JasonB.jpg",
             "funImg": "images/classmates/JasonB_Fun.jpg"
+        },
+        {
+            "id": 18,
+            "firstName": "Logan",
+            "lastName": "Palmer",
+            "reelThemIn": "We choose to go to the moon not because it’s easy, but because it’s hard... -John F. Kennedy",
+            "bio": "From a young age I had always wanted to fiddle with computers, a little over 6 months ago I had been introduced to coding/web development; immediately fell in love with it and wanted to pursue a career in it. Now, I hope to dig deep to learn as much as I possibly can.",
+            "github": "https://github.com/Yumps",
+            "linkedIn": "https://www.linkedin.com/in/logan-palmer1/",
+            "portfolio": "",
+            "email": "loganpalmer199721@hotmail.com",
+            "proImg": "images/classmates/Logan.jpg",
+            "funImg": "images/classmates/Logan_Fun.jpg"
+        },
+        {
+            "id": 19,
+            "firstName": "Jake",
+            "lastName": "Preston",
+            "reelThemIn": "<p>\"wubalubadubdub -Rick Sanchez\"</p>",
+            "bio": "<p>From engineering to full-stack software development, I have carried a passion for technology throughout my life. With my brother's encouragement and example as a Senior Developer, I found a way to combine creativity with logic; and decided to dive into the industry myself. From an industry with endless learning opportunities, I hope to contribute to the innovative world of development. </p>",
+            "github": "https://github.com/Preston-Jake",
+            "linkedIn": "https://www.linkedin.com/in/preston-jake/",
+            "portfolio": "",
+            "email": "prestonjak@outlook.com",
+            "proImg": "images/classmates/Jake.jpg",
+            "funImg": "images/classmates/Jake_Fun.jpg"
         }
     ]
 }
