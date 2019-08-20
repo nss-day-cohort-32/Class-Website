@@ -244,6 +244,19 @@
             "email": "prestonjak@outlook.com",
             "proImg": "images/classmates/Jake.jpg",
             "funImg": "images/classmates/Jake_Fun.jpg"
+        },
+        {
+            "id": 20,
+            "firstName": "Joel",
+            "lastName": "Venable",
+            "reelThemIn": "<p>\"Truth can only be found in one place: the code. -Bob Martin\"</p>",
+            "bio": "<p>After my Navy Logistics career came to an end, I was looking for a change.  I found software development to be the perfect place to utilize my skills of tracing down the root cause of problems and improving processes.</p>",
+            "github": "https://github.com/JoelVenable",
+            "linkedIn": "https://www.linkedin.com/in/joel-venable-dev/",
+            "portfolio": "https://www.joelvenable.com",
+            "email": "joel.d.venable@gmail.com",
+            "proImg": "images/classmates/Joel.jpg",
+            "funImg": "images/classmates/Joel_Fun.jpg"
         }
     ]
 }
