@@ -17,7 +17,7 @@
             "id": 2,
             "firstName": "Colin",
             "lastName": "Sandlin",
-            "reelThemIn": "<p>git commit -m \"I dunno what to put here\"</p>",
+            "reelThemIn": "<p>git commit -m \"Please give me arrays\"</p>",
             "bio": "<p>I am a Full-stack Developer, but I first became an Industrial Designer because I love creative problem solving - digging deep into issues to find solutions that make people’s lives better. For five years, my teams worked with developers to create dynamic installations for clients such as the Dallas Cowboys, Stanford University, and Mailchimp, and my interest in coding was piqued.</p><p>That experience motivated me to pivot my career and become a developer. At the end of 2018, I left my job as a designer to begin preparing for my education at Nashville Software School. As a student, I have embraced the attitude of constant learning and have found a career that I get excited about every day. My passion for creative problem solving still drives me forward, the only difference is, now I can find solutions using code. In my free time, you can find me hiking, mountain biking, or searching for the next cup of coffee with my wife. </p>",
             "github": "https://github.com/c-sandlin",
             "linkedIn": "https://www.linkedin.com/in/c-sandlin",
@@ -244,6 +244,32 @@
             "email": "prestonjak@outlook.com",
             "proImg": "images/classmates/Jake.jpg",
             "funImg": "images/classmates/Jake_Fun.jpg"
+        },
+        {
+            "id": 20,
+            "firstName": "Joel",
+            "lastName": "Venable",
+            "reelThemIn": "<p>\"Truth can only be found in one place: the code.\" -Bob Martin</p>",
+            "bio": "<p>After my Navy Logistics career came to an end, I was looking for a change.  I found software development to be the perfect place to utilize my skills of tracing down the root cause of problems and improving processes.</p>",
+            "github": "https://github.com/JoelVenable",
+            "linkedIn": "https://www.linkedin.com/in/joel-venable-dev/",
+            "portfolio": "https://www.joelvenable.com",
+            "email": "joel.d.venable@gmail.com",
+            "proImg": "images/classmates/Joel.jpg",
+            "funImg": "images/classmates/Joel_Fun.jpg"
+        },
+        {
+            "id": 21,
+            "firstName": "Josh",
+            "lastName": "Webb",
+            "reelThemIn": "<p>Actor, Mover, Developer</p>",
+            "bio": "<p>At the end of my career in hospitality and customer service, I've made the switch to be a software developer. My natural curiosity for technology and my love for problem solving and collaboration is what fuels my desire to grow in this field. Being able to make amazing things with amazing people makes me grateful for each day I go to work. </p>",
+            "github": "https://github.com/josh-webb",
+            "linkedIn": "https://www.linkedin.com/in/josh-b-webb/",
+            "portfolio": "http://josh-webb.dev",
+            "email": "joshwebb42@gmail.com",
+            "proImg": "images/classmates/Josh.jpg",
+            "funImg": "images/classmates/Josh_Fun.jpg"
         }
     ]
 }
