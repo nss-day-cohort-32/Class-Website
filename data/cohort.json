@@ -270,6 +270,19 @@
             "email": "joshwebb42@gmail.com",
             "proImg": "images/classmates/Josh.jpg",
             "funImg": "images/classmates/Josh_Fun.jpg"
+        },
+        {
+            "id": 22,
+            "firstName": "Dek",
+            "lastName": "Haji",
+            "reelThemIn": "<p> rm -rf \"All social life!\"</p>",
+            "bio": "<p>In my early years, I enjoyed fixing computers and other electronic devices. I enjoy building products and using logic to fix problems. Once I started coding, I knew this was my passion.</p>",
+            "github": "https://github.com/dek-haji",
+            "linkedIn": "https://www.linkedin.com/in/dek-haji/",
+            "portfolio": "http://www.bowty.tech",
+            "email": "dek.haji1@gmail.com",
+            "proImg": "images/classmates/Dek.jpg",
+            "funImg": "images/classmates/Dek_Fun.jpg"
         }
     ]
 }
