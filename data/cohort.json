@@ -283,6 +283,19 @@
             "email": "dek.haji1@gmail.com",
             "proImg": "images/classmates/Dek.jpg",
             "funImg": "images/classmates/Dek_Fun.jpg"
+        },
+        {
+            "id": 23,
+            "firstName": "Sean",
+            "lastName": "Glavin",
+            "reelThemIn": "<p>Fortune favors the bold</p>",
+            "bio": "<p>I am a creative problem solver that craves unique challenges to overcome. This craving drove me to a nine year career as a Green Beret in the US Army Special Forces. I am highly self motivated, and ever since I was a child I thrived off of collaboration and competition. I have an interesting personality that is both laid back and highly engaged at the same time. I have an inherent curiosity of how things work, a drive to succeed at whatever is placed in front of me and work ethic that compliments that personality type. Computers have always been a passion of mine and software development feeds my curiosity. desire to problem solve, and is a complex challenge every day.</p>",
+            "github": "https://github.com/Sglavin85",
+            "linkedIn": "https://www.linkedin.com/in/sean-glavin/",
+            "portfolio": "",
+            "email": "sean@glavin.us",
+            "proImg": "images/classmates/Sean.jpg",
+            "funImg": "images/classmates/Sean_Fun.jpg"
         }
     ]
 }
