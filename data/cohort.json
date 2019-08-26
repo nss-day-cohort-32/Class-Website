@@ -95,10 +95,10 @@
             "id": 8,
             "firstName": "Eliot",
             "lastName": "Clarke",
-            "reelThemIn": "<p>On a path to learn. Hopefully learn everything.</p>",
-            "bio": "<p>I rediscovered a passion for coding while working in the motorcycle industry and have since decided to chase after that passion at full force. I've found it to be one of the most rewarding endeavors I've gone after. If there's anything I've discovered about myself, it's that I have a natural inclination for problem-solving and an innate desire to help people. With a dedication to efficiency and creating positive change, it feels like I've finally found a career path I can get excited about.</p>",
+            "reelThemIn": "<p>All your database are belong to us.</p>",
+            "bio": "<p>I rediscovered a passion for coding while working in the motorcycle industry and have since decided to chase after that passion at full force. I've found it to be one of the most rewarding endeavors I've gone after. If there's anything I've discovered about myself, it's that I have a natural inclination for problem-solving and an innate desire to help people. With a dedication to efficiency and creating positive change, I know I've found a career path that matches my passion.</p>",
             "github": "https://github.com/deliotclarke",
-            "linkedIn": "https://www.linkedin.com/in/eliotclarke",
+            "linkedIn": "https://www.linkedin.com/in/eliotclarke//",
             "portfolio": "https://deliotclarke.github.io",
             "email": "deliotclarke@gmail.com",
             "proImg": "images/classmates/Eliot.jpg",
@@ -112,7 +112,7 @@
             "bio": "<p>After spending many years in the music industry, I made the decision to change careers and needed a field with a growing job market that rewards hard work. I became aware of coding though a close family member's interest in the field and was pulled even closer when they graduated from Nashville Software School's Full Stack Web Development Boot Camp.<p><p>I find software development to be constantly challenging and at the same time very rewarding. I enjoy researching and implementing the Full Stack techniques & languages we have learned at NSS that include C#, .NET, SQL, ReactJS, Bootstrap, HTML, CSS & JavaScript. I am looking forward to applying my skills in software development and believe with my varied work experience, I will be an asset to any team.</p>",
             "github": "https://github.com/jimmymetts",
             "linkedIn": "https://www.linkedin.com/in/jimmymetts/",
-            "portfolio": "",
+            "portfolio": "https://jimmymetts.github.io/-/",
             "email": "jimmymettsdev@gmail.com",
             "proImg": "images/classmates/Jimmy.jpg",
             "funImg": "images/classmates/Jimmy_Fun.jpg"
@@ -164,7 +164,7 @@
             "bio": "<p>I learned about software development from a family member, and they had mentioned Nashville Software School. From there, I began exploring the world of programming. I was intrigued by the challenge and logical thinking incorporated with the field, and applied to a full-stack programming boot-camp. I am set to graduate NSS on September 20, 2019. While attending, I have had the opportunity to brainstorm and develop in languages that include: HTML, CSS, JavaScript, REACTjs, C#, SQL, and .NET.  I am learning everyday and evolving the skillsets to achieve my goals. I am passionate about technology, working in a team, and very eager to continue to grow as a developer to allow ideas to come to life. I am excited for where this career path will take me, and become a big part of the technology community.</p>",
             "github": "https://github.com/richardmcconnell12",
             "linkedIn": "https://linkedin.com/in/richard-mcconnell/",
-            "portfolio": "",
+            "portfolio": "richardmcconnell12.github.io",
             "email": "mr.mcconnell12@gmail.com",
             "proImg": "images/classmates/Ricky.jpg",
             "funImg": "images/classmates/Ricky_Fun.jpg"
@@ -177,6 +177,7 @@
             "bio": "<p>For a music major fresh out of undergraduate school, development was an exciting new challenge. It’s empowering to know that I am able to utilize the same creative and quantitative thinking that I used during my music career. Development has changed the way that I problem solve in the real world, and has made me a firm believer in the power of consistent, challenging, mental stimulation. It’s a privilege to get to open my laptop and create every day.</p>",
             "github": "https://github.com//emilyloggins",
             "linkedIn": "https://www.linkedin.com/in/emilyloggins/",
+            "portfolio": "",
             "email": "emilyloggins1@gmail.com",
             "proImg": "images/classmates/Emily.jpg",
             "funImg": "images/classmates/Emily_Fun.jpg"
@@ -227,7 +228,7 @@
             "bio": "From a young age I had always wanted to fiddle with computers, a little over 6 months ago I had been introduced to coding/web development; immediately fell in love with it and wanted to pursue a career in it. Now, I hope to dig deep to learn as much as I possibly can.",
             "github": "https://github.com/Yumps",
             "linkedIn": "https://www.linkedin.com/in/logan-palmer1/",
-            "portfolio": "",
+            "portfolio": "logancodes.tech",
             "email": "loganpalmer199721@hotmail.com",
             "proImg": "images/classmates/Logan.jpg",
             "funImg": "images/classmates/Logan_Fun.jpg"
