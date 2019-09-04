@@ -297,6 +297,19 @@
             "email": "sean@glavin.us",
             "proImg": "images/classmates/Sean.jpg",
             "funImg": "images/classmates/Sean_Fun.jpg"
+        },
+        {
+            "id": 24,
+            "firstName": "Joab",
+            "lastName": "Sigrah",
+            "reelThemIn": "<p>\" I Didn’t Change, I Just Found Myself \"- Bob Marley</p>",
+            "bio": "<p>I am an enthusiastic and creative full-stack developer, with a strong passion for learning the software industry technologies and everyday programming. I Started as industrial maintenance and seen all the new technologies, how software has become a huge part of running almost everything. From the conveyor to scanner even work-orders for parts and equipment. Which makes me think about making a huge career change into software engineering. I went and applied to Nashville software school for full-stack web development to pursue my software skills. I'm very cool, passionate about getting work  done, and love helping each other.</p><p> During my time at NSS I have had the opportunity to develop software in several languages such as: HTML, CSS, JavaScript, ReactJS, C#, .NET, and SQL. I am on track to graduate from NSS on Sept 20, 2019. I am looking for a junior software development job. I am a driven individual who doesn't give up until the job is done.</p>",
+            "github": "https://github.com/jksiggy",
+            "linkedIn": "https://www.linkedin.com/in/joab-sigrah-0b2639133/",
+            "portfolio": "https://www.joabkun.com",
+            "email": "jksiggy@gmail.com",
+            "proImg": "images/classmates/Jr.jpg",
+            "funImg": "images/classmates/Jr_Fun.jpg"
         }
     ]
 }
